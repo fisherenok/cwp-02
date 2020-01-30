@@ -1,0 +1,60 @@
+Client (1580382862938) - connected
+Client (1580382862938) has asked: Rick grandpa Morty?
+Server answer Client (1580382862938): 0
+Client (1580382862938) has asked: Is today October?
+Server answer Client (1580382862938): 0
+Client (1580382862938) has asked: 0 more than 1?
+Server answer Client (1580382862938): 1
+Client (1580382862938) has asked: Node js single threaded?
+Server answer Client (1580382862938): 1
+Client (1580382862938) has asked: Was es6 released in 2015?
+Server answer Client (1580382862938): 0
+Client (1580382862938) - disconnected
+Client (1580382862945) - connected
+Client (1580382862945) has asked: 0 more than 1?
+Server answer Client (1580382862945): 1
+Client (1580382862945) has asked: Rick grandpa Morty?
+Server answer Client (1580382862945): 1
+Client (1580382862945) has asked: Was es6 released in 2015?
+Server answer Client (1580382862945): 1
+Client (1580382862945) has asked: Is today October?
+Server answer Client (1580382862945): 1
+Client (1580382862945) has asked: Node js single threaded?
+Server answer Client (1580382862945): 0
+Client (1580382862945) - disconnected
+Client (1580383108441) - connected
+Client (1580383108441) has asked: Rick grandpa Morty?
+Server answer Client (1580383108441): 0
+Client (1580383108441) has asked: Was es6 released in 2015?
+Server answer Client (1580383108441): 1
+Client (1580383108441) has asked: Is today October?
+Server answer Client (1580383108441): 1
+Client (1580383108441) has asked: Node js single threaded?
+Server answer Client (1580383108441): 0
+Client (1580383108441) has asked: 0 more than 1?
+Server answer Client (1580383108441): 1
+Client (1580383108441) - disconnected
+Client (1580383108450) - connected
+Client (1580383108450) has asked: Rick grandpa Morty?
+Server answer Client (1580383108450): 1
+Client (1580383108450) has asked: Was es6 released in 2015?
+Server answer Client (1580383108450): 1
+Client (1580383108450) has asked: Node js single threaded?
+Server answer Client (1580383108450): 0
+Client (1580383108450) has asked: 0 more than 1?
+Server answer Client (1580383108450): 1
+Client (1580383108450) has asked: Is today October?
+Server answer Client (1580383108450): 1
+Client (1580383108450) - disconnected
+Client (1580388432870) - connected
+Client (1580388432870) has asked: Was es6 released in 2015?
+Server answer Client (1580388432870): 0
+Client (1580388432870) has asked: 0 more than 1?
+Server answer Client (1580388432870): 1
+Client (1580388432870) has asked: Is today October?
+Server answer Client (1580388432870): 1
+Client (1580388432870) has asked: Node js single threaded?
+Server answer Client (1580388432870): 1
+Client (1580388432870) has asked: Rick grandpa Morty?
+Server answer Client (1580388432870): 1
+Client (1580388432870) - disconnected
